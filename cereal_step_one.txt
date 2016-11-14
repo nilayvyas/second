@@ -1,0 +1,5 @@
+To eat cereal:
+
+1.  Add milk to bowl first (this is very important)
+2.  Add cereal to the bowl
+3.  Go look at file cereal_step_two
